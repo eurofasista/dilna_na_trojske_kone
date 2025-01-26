@@ -25,6 +25,7 @@ namespace DalsiWtfApp
             VybranyLoser = w.VybranyLoser;
             if (w.Registrace) ZapisLosery(SeznamLoseru);
             VlozLoserData(VybranyLoser);
+            MessageBox.Show("Připravte si blicí sáček!");
         }
         public void KladaVen(object sender, EventArgs e)
         {
