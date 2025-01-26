@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DalsiWtfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="1000">
     <Grid>
         <Label Content="LoserName:" FontFamily="Comic Sans MS" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Foreground="Red" Margin="20,10,0,0"/>
         <TextBlock x:Name="LoserNameText" FontFamily="Papyrus" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="30" Foreground="Yellow" Background="Blue" Margin="150,5,0,0" Width="600" TextWrapping="Wrap"/>
 
-        <Label Content="Hláška:" FontFamily="Impact" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="16" Foreground="Purple" Margin="0,70,20,0"/>
+        <Label Content="Hláška:" FontFamily="Impact" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="16" Foreground="Purple" Margin="0,70,200,0"/>
         <TextBlock x:Name="HlaskaText" FontFamily="Curlz MT" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="25" Foreground="Orange" Margin="0,100,20,0" Width="400" TextWrapping="Wrap">
             <TextBlock.RenderTransform>
                 <RotateTransform Angle="15"/>
