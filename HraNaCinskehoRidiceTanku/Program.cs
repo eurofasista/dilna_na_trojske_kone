@@ -31,7 +31,7 @@
         int[] finalni_yndexy = new int[k + 1];
         finalni_yndexy[k] = 99;
         for (int i = k - 1; i >= 0; i--) { finalni_yndexy[i] = yndexy[m, i]; m = yndexy[m, i]; }
-        for(int i = k - 1; i >= 0; i--) Console.WriteLine(finalni_yndexy[i + 1] - finalni_yndexy[i]);
+        for(int i = k - 1; i >= 0; i--) Console.Write((finalni_yndexy[i + 1] - finalni_yndexy[i]) + " ");
         Console.ReadKey();
     }
 }
