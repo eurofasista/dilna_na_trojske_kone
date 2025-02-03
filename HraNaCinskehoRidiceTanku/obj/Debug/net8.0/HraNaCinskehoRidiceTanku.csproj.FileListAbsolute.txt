@@ -1,0 +1,14 @@
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\bin\Debug\net8.0\HraNaCinskehoRidiceTanku.exe
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\bin\Debug\net8.0\HraNaCinskehoRidiceTanku.deps.json
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\bin\Debug\net8.0\HraNaCinskehoRidiceTanku.runtimeconfig.json
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\bin\Debug\net8.0\HraNaCinskehoRidiceTanku.dll
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\bin\Debug\net8.0\HraNaCinskehoRidiceTanku.pdb
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.AssemblyInfoInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.AssemblyInfo.cs
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.csproj.CoreCompileInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.dll
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\refint\HraNaCinskehoRidiceTanku.dll
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.pdb
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\HraNaCinskehoRidiceTanku.genruntimeconfig.cache
+C:\Users\jandi\Desktop\soubory\programování\HraNaCinskehoRidiceTanku\HraNaCinskehoRidiceTanku\obj\Debug\net8.0\ref\HraNaCinskehoRidiceTanku.dll
