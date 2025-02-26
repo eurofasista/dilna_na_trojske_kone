@@ -1,0 +1,14 @@
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\bin\Debug\net8.0\EndlichKeinWTFApp.exe
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\bin\Debug\net8.0\EndlichKeinWTFApp.deps.json
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\bin\Debug\net8.0\EndlichKeinWTFApp.runtimeconfig.json
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\bin\Debug\net8.0\EndlichKeinWTFApp.dll
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\bin\Debug\net8.0\EndlichKeinWTFApp.pdb
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.AssemblyInfoInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.AssemblyInfo.cs
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.csproj.CoreCompileInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.dll
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\refint\EndlichKeinWTFApp.dll
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.pdb
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\EndlichKeinWTFApp.genruntimeconfig.cache
+C:\Users\jandi\Desktop\soubory\programování\EndlichKeinWTFApp\EndlichKeinWTFApp\obj\Debug\net8.0\ref\EndlichKeinWTFApp.dll
