@@ -1,0 +1,14 @@
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\bin\Debug\net8.0\Problem_batohu.exe
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\bin\Debug\net8.0\Problem_batohu.deps.json
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\bin\Debug\net8.0\Problem_batohu.runtimeconfig.json
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\bin\Debug\net8.0\Problem_batohu.dll
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\bin\Debug\net8.0\Problem_batohu.pdb
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.AssemblyInfoInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.AssemblyInfo.cs
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.csproj.CoreCompileInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.dll
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\refint\Problem_batohu.dll
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.pdb
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\Problem_batohu.genruntimeconfig.cache
+C:\Users\jandi\Desktop\soubory\programování\Problem_batohu\Problem_batohu\obj\Debug\net8.0\ref\Problem_batohu.dll
